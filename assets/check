@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+set -e
+
+$(dirname $0)/lib/commands/check.rb $1 <&0
+

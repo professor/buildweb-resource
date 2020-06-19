@@ -1,0 +1,7 @@
+{
+    "source": {
+        "product": "kscom_release",
+        "version_regex": "v1.15"
+    },
+    "version": { "ref": null }
+}

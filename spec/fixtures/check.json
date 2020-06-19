@@ -1,0 +1,8 @@
+{
+    "source": {
+        "product": "kscom_release",
+        "version_regex": "v1.15",
+        "private_key": "..."
+    },
+    "version": { "ref": "v1.17.6+vmware.1" }
+}
